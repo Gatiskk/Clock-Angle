@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ClockDegreeTask"
+    "\\ClockDegreeTask",
+    "\\ClockDegreeTask\\Exceptions"
   ],
-  "SelectedNode": "\\ClockDegreeTask.sln",
+  "SelectedNode": "\\ClockDegreeTask\\Exceptions\\InvalidMinutesException.cs",
   "PreviewInSolutionExplorer": false
 }
